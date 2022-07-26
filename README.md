@@ -22,17 +22,16 @@ This series is implemented based on my own experience and some reference sources
     ```
 
 ## Progress
-- :black_square_button: Algorithm
-    - :white_check_mark: Search
-    - :white_check_mark: Sort
-- :black_square_button: Data structure
-    - :white_check_mark: Tree
-    - :black_square_button: Graph
-- :black_square_button: Design pattern
-- :black_square_button: Javascript
-- :black_square_button: Software engineering
-- :black_square_button: SOLID
-- :black_square_button: Testing
+- [ ] Algorithm
+    - [x] Search
+    - [x] Sort
+- [ ] Data structure
+    - [x] Tree
+    - [x] Graph
+- [ ] Design pattern
+- [ ] Javascript
+- [x] SOLID
+- [ ] Testing
 
 ## Contact
 Email: phillipng.working@gmail.com
