@@ -1,5 +1,5 @@
 # Software Engineering Series
-| Prerequisite: Almost series is written in Typescript or Javascript, so you should be familiar with them
+| Prerequisite: This serie is almost written in Typescript or Javascript, so you should be familiar with them
 
 ## Disclaimer
 This series is implemented based on my own experience and some reference sources. I am always open to sharing and getting contributions from everyone. Thank you in advanced.
