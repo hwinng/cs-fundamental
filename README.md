@@ -27,7 +27,7 @@ This series is implemented based on my own experience and some reference sources
     - [x] Sort
 - [ ] Data structure
     - [x] Tree
-    - [x] Graph
+    - [ ] Graph
 - [ ] Design pattern
 - [ ] Javascript
 - [x] SOLID
