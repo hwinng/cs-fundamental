@@ -1,0 +1,11 @@
+ul.hidden {
+    display: none;
+}
+ul.expand {
+    display: block;
+}
+span:hover {
+    font-weight: bold;
+    opacity: 0.8;
+    cursor: pointer;
+}
