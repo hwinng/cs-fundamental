@@ -1,8 +1,15 @@
 import Node from "./Node";
 
 class LinkedList {
-    public head!: Node | null;
+    private _head!: Node;
 
+    get head() {
+        return this._head;
+    }
+
+    set head(node: Node) {
+        this._head = node;
+    }
     print() {
         let node: Node | null = this.head;
         while(node !== null) {
@@ -61,12 +68,12 @@ class LinkedList {
         let preNode: Node | null = null;
         
         // if head node holds val
-        if (tempNode != null && tempNode.data == val) {
+        if (tempNode != null && tempNode.next != null && tempNode.data == val) {
             this.head = tempNode.next;
         }
 
         // traverse to find the node that holds the val
-        while(tempNode != null && tempNode.data != val) {
+        while(tempNode != null && tempNode.next != null && tempNode.data != val) {
             preNode = tempNode;
             tempNode = tempNode.next;
         }
