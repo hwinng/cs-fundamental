@@ -26,7 +26,6 @@ bst.add(20);
 bst.add(0);
 bst.add(4);
 
-console.log("deleting 0:", bst.remove(15));
 console.log('levelOrderTraverse: ', bst.levelOrderTraverse())
 console.log('preOrderTraverse:', bst.preOrderTraverseRecursive())
 console.log('inOrderTraverse:', bst.inOrderTraverse())
