@@ -26,10 +26,11 @@ This series is implemented based on my own experience and some reference sources
     - [x] Search
     - [x] Sort
 - [ ] Data structure
+    - [x] Linked list
     - [x] Tree
     - [ ] Graph
 - [ ] Design pattern
-- [ ] Javascript
+- [x] Javascript
 - [x] SOLID
 - [ ] Testing
 
